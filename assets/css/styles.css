@@ -80,6 +80,7 @@ main {
     display: grid;
     place-items: center;
     padding-left: 3px;
+    line-height: 1.5em;
 }
 form {
     display: flex;
@@ -252,6 +253,7 @@ a {
     }
     .hero-content {
         transform: scale(.9);
+        place-items: center;
     }
     .banner {
         display: none;
