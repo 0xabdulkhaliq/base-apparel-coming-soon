@@ -16,7 +16,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## **Links**
 
-- Solution URL: [click here]()
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-but-slightly-tweaked-up-lUpGFgPDfy)
 - Live Site URL: [click here](https://0xabdulkhalid.github.io/base-apparel-coming-soon/)
 
 <br>
